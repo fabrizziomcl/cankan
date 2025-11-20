@@ -80,7 +80,6 @@ checkpoints/
 *.ckpt
 
 # Figures / generated outputs (optional: untrack large auto-generated images)
-figures/
 figures_kan_functions/
 src/figures/
 
