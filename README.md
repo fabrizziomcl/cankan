@@ -47,7 +47,11 @@ cankan/
 ├── notebooks/                  
 │   └── (Explicaciones, Experimentos)
 │
-└── figures/                    
+└── figures/
+│   └── (Resultados de los experimentos)
+
+└── paper/
+│   └── (Paper original de KAN)                
 ```
 
 ---
