@@ -52,7 +52,7 @@ cankan/
 
 ---
 
-## ⚡ Uso Básico
+##  Uso Básico
 
 ### Ejecutar un experimento
 El script `src/run.py` es el punto de entrada principal para entrenar modelos, generar datos sintéticos y visualizar resultados.
